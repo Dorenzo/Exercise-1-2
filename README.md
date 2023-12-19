@@ -1,1 +1,1 @@
-Voici le fichier permettant de se pratiquer 
+Voici le fichier permettant de se pratiquer
